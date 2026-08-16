@@ -128,13 +128,11 @@ ai-truth-detective/
 ├── references/
 │   └── api_docs.md          # 各 API 端点、Action、参数速查
 └── docs/
-    ├── article.md           # 实践文章（腾讯云 AI Skills 最佳实践投稿）
     └── screenshots/         # 运行截图
 ```
 
 ## 文档
 
-- [实践文章](docs/article.md)：完整的踩坑复盘与验证过程
 - [API 速查](references/api_docs.md)：各接口端点、参数、错误码
 
 ## 已知边界
