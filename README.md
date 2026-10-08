@@ -144,3 +144,9 @@ ai-truth-detective/
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## 作者
+
+**LucianaiB**：专注 AI 应用落地与 AI App 设计开发的开发者，代表作品有 DocPilot Qwen、LifeTrace、GeoMind 等。更多项目与联系方式见个人主页 <https://lucianaib.is-a.dev>。
